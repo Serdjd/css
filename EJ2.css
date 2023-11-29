@@ -1,0 +1,21 @@
+#wrapper {
+    background-color: wheat;
+}
+h1 {
+    color:red;
+}
+img {
+    size:40px;
+}
+.menu {
+    color: green;
+}
+.negrita {
+    font-weight: 700;
+}
+footer p {
+     color: purple;
+}
+.ancla { 
+    color: aquamarine;
+}
